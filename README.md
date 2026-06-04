@@ -6,7 +6,7 @@
 
 <table><tr><td>2. Run the script</td></tr></table>
 
-> In terminal: `cargo run src/main.rs`
+> In terminal: `cargo run Cloner/src/main.rs`
 
 ---
 
